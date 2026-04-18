@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Divyanshi%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20%7C%20Agentic%20AI%20%7C%20Data%20Scientist%20%7C%20MMMUT%2026&descAlignY=58&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4B4A9C&height=150&section=header&text=Divyanshi%20Singh&fontSize=42&fontColor=e8e6ff&animation=fadeIn&fontAlignY=42&desc=GenAI%20%7C%20Agentic%20AI%20%7C%20Data%20Scientist%20%7C%20MMMUT%2026&descAlignY=65&descColor=c4c0f0" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshi018572)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:divyanshis499@gmail.com)
