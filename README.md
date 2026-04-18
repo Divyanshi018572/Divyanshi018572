@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4B4A9C&height=150&section=header&text=Divyanshi%20Singh&fontSize=42&fontColor=e8e6ff&animation=fadeIn&fontAlignY=42&desc=GenAI%20%7C%20Agentic%20AI%20%7C%20Data%20Scientist%20%7C%20MMMUT%2026&descAlignY=65&descColor=c4c0f0" />
@@ -13,17 +14,17 @@
 
 ## 👩‍💻 About Me
 
-> **Civil Engineering student turned AI Builder** — proof that the best AI engineers come from unexpected places.
+> AI Builder & Data Science enthusiast — turning ideas into production-grade intelligent systems.
 
-I'm **Divyanshi Singh**, a final-year B.Tech student at **MMMUT (2026)** who pivoted from Civil Engineering to building production-grade AI systems. With **25+ end-to-end projects** and **10+ deployed applications**, I specialize in Generative AI, Agentic AI, and Data Science.
+I'm Divyanshi Singh, a final-year B.Tech student at MMMUT (2026) with a minor in Data Science. With 25+ end-to-end projects and 10+ deployed applications, I specialize in Generative AI, Agentic AI, and Data Science.
 
 ```python
 divyanshi = {
     "role"       : ["GenAI Engineer", "Agentic AI Engineer", "Data Scientist", "Data Analyst"],
-    "university" : "MMMUT, Gorakhpur — B.Tech Civil Engineering '26",
+    "university" : "MMMUT, Gorakhpur — B.Tech '26 | Minor in Data Science",
     "stack"      : ["LangChain", "LangGraph", "CrewAI", "RAG", "PyTorch", "FastAPI"],
     "deployed"   : "10+ live AI applications",
-    "superpower" : "Cross-domain AI — applying ML to Civil, Urban & Infrastructure problems",
+    "projects"   : "25+ end-to-end AI/ML projects",
     "open_to"    : "Full-time roles | 8–12 LPA | Bangalore / Hyderabad / Remote"
 }
 ```
@@ -63,9 +64,9 @@ Model Context Protocol server enabling LLMs to interact with GitHub repositories
 <td width="50%">
 
 ### 🛣️ [Automated Pavement Distress System](https://github.com/DIVYANSHI018572/Automated-Pavement-Distress-System)
-Computer Vision system for automated detection and classification of road defects — Civil Engineering meets Deep Learning.
+Computer Vision system for automated detection and classification of road surface defects using deep learning and real-time image analysis.
 
-`YOLOv8` `PyTorch` `OpenCV` `Streamlit` `Civil AI`
+`YOLOv8` `PyTorch` `OpenCV` `Streamlit` `Computer Vision`
 
 </td>
 </tr>
@@ -159,22 +160,9 @@ Local RAG system using Ollama for fully offline document Q&A — zero API costs,
 
 ---
 
-## 💡 Civil Engineering × AI — My Unique Edge
-
-> Most AI engineers come from CS. I bring **domain expertise** that CS grads simply don't have.
-
-| Civil Problem | AI Solution I'm Building |
-|---|---|
-| Road defect detection | Computer Vision (YOLOv8) |
-| Construction cost prediction | Regression + ML pipelines |
-| Traffic flow optimization | Reinforcement Learning |
-| Smart urban planning | Geospatial AI + LLMs |
-
----
-
 ## 📫 Let's Connect
 
-I'm actively looking for **full-time roles** in GenAI, Agentic AI, Data Science, or Data Analytics.
+I'm actively looking for full-time roles in GenAI, Agentic AI, Data Science, or Data Analytics.
 
 - 💼 Open to: Full-time | 8–12 LPA | Bangalore / Hyderabad / Mumbai / Remote
 - 📧 Email: divyanshis499@gmail.com
@@ -182,7 +170,7 @@ I'm actively looking for **full-time roles** in GenAI, Agentic AI, Data Science,
 - 💬 Always happy to collaborate on AI projects or discuss opportunities!
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4B4A9C&height=80&section=footer"/>
 </div>
 
 ---
