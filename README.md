@@ -61,7 +61,7 @@ me.connect()
 
 ### 🛣️ Automated Pavement Distress System
 
-<a href="https://huggingface.co/spaces/Divya499/APDS-Automated-Pavement-Distress-System"><img src="https://img.shields.io/badge/🤗%20Live%20Demo-HuggingFace-FFD21E?style=for-the-badge"/></a>&nbsp;<a href="https://github.com/DIVYANSHI018572/Automated-Pavement-Distress-System"><img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://huggingface.co/spaces/Divya499/Automated-Pavement-Distress-System"><img src="https://img.shields.io/badge/🤗%20Live%20Demo-HuggingFace-FFD21E?style=for-the-badge"/></a>&nbsp;<a href="https://github.com/DIVYANSHI018572/Automated-Pavement-Distress-System"><img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github"/></a>
 
 Real-time Computer Vision system that detects and classifies road surface defects with YOLOv8 — automating distress analysis across road images and video feeds.
 
