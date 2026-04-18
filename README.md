@@ -14,19 +14,47 @@
 
 ## 👩‍💻 About Me
 
-> AI Builder & Data Science enthusiast — turning ideas into production-grade intelligent systems.
-
-I'm Divyanshi Singh, a final-year B.Tech student at MMMUT (2026) with a minor in Data Science. With 25+ end-to-end projects and 10+ deployed applications, I specialize in Generative AI, Agentic AI, and Data Science.
-
 ```python
-divyanshi = {
-    "role"       : ["GenAI Engineer", "Agentic AI Engineer", "Data Scientist", "Data Analyst"],
-    "university" : "MMMUT, Gorakhpur — B.Tech '26 | Minor in Data Science",
-    "stack"      : ["LangChain", "LangGraph", "CrewAI", "RAG", "PyTorch", "FastAPI"],
-    "deployed"   : "10+ live AI applications",
-    "projects"   : "25+ end-to-end AI/ML projects",
-    "open_to"    : "Full-time roles | 8–12 LPA | Bangalore / Hyderabad / Remote"
-}
+class Divyanshi_Singh:
+    def __init__(self):
+        self.name       = "Divyanshi Singh"
+        self.roles      = ["GenAI Engineer", "Agentic AI Engineer", "Data Scientist", "Data Analyst", "Python Developer"]
+        self.university = "MMMUT, Gorakhpur — B.Tech '26 | Minor in Data Science"
+        self.location   = "India 🇮🇳 | Open to Remote and Relocation"
+        self.status     = "Actively seeking full-time roles | 8–12 LPA"
+
+    def tech_stack(self):
+        return {
+            "llm_frameworks" : ["LangChain", "LangGraph", "CrewAI", "LlamaIndex"],
+            "ai_skills"      : ["RAG", "Agentic AI", "Prompt Engineering", "Fine-tuning"],
+            "ml_dl"          : ["PyTorch", "TensorFlow", "Scikit-Learn", "OpenCV"],
+            "deployment"     : ["FastAPI", "Streamlit", "Gradio", "Flask", "Render"],
+            "data"           : ["SQL", "MongoDB", "ChromaDB", "Pinecone", "Power BI"],
+            "tools"          : ["MCP", "LangSmith", "Docker", "Git", "HuggingFace"]
+        }
+
+    def currently(self):
+        return {
+            "building"  : "Multi-agent research pipeline with LangGraph + RAG + web search",
+            "exploring" : "MCP server development for real-time LLM tool use",
+            "learning"  : "LLM fine-tuning with LoRA/QLoRA | LangSmith agent evaluation"
+        }
+
+    def stats(self):
+        return {
+            "projects_built" : "25+ end-to-end AI/ML projects",
+            "apps_deployed"  : "10+ live apps on Streamlit / HuggingFace / Render",
+            "github_repos"   : "27 public repositories"
+        }
+
+    def connect(self):
+        print("📧 divyanshis499@gmail.com")
+        print("🔗 linkedin.com/in/divyanshi018572")
+        print("💻 github.com/DIVYANSHI018572")
+
+
+me = Divyanshi_Singh()
+me.connect()
 ```
 
 ---
@@ -152,19 +180,11 @@ Local RAG system using Ollama for fully offline document Q&A — zero API costs,
 
 ---
 
-## 🎯 What I'm Currently Building
-
-- 🔴 **Live:** Exploring MCP (Model Context Protocol) server development for real-time LLM tool use
-- 🟡 **Building:** Multi-agent research pipeline with LangGraph + web search + RAG
-- 🟢 **Learning:** LangSmith for agent tracing & evaluation | LLM fine-tuning with LoRA/QLoRA
-
----
-
 ## 📫 Let's Connect
 
 I'm actively looking for full-time roles in GenAI, Agentic AI, Data Science, or Data Analytics.
 
-- 💼 Open to: Full-time | 8–12 LPA | Bangalore / Hyderabad / Mumbai / Remote
+- 💼 Open to: Full-time | 6-15 lpa LPA | Bangalore / Hyderabad / Mumbai / Remote
 - 📧 Email: divyanshis499@gmail.com
 - 🔗 LinkedIn: [divyanshi018572](https://linkedin.com/in/divyanshi018572)
 - 💬 Always happy to collaborate on AI projects or discuss opportunities!
