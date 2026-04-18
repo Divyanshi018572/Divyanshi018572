@@ -18,9 +18,9 @@
 class Divyanshi_Singh:
     def __init__(self):
         self.name       = "Divyanshi Singh"
-        self.roles      = ["GenAI Engineer", "Agentic AI Engineer", "Data Scientist", "Data Analyst", "Python Developer"]
+        self.roles      = ["GenAI Engineer", "Agentic AI Engineer", "Data Scientist", "Data Analyst"]
         self.university = "MMMUT, Gorakhpur — B.Tech '26 | Minor in Data Science"
-        self.location   = "India 🇮🇳 | Open to Remote and Relocation"
+        self.location   = "India 🇮🇳 | Open to Remote"
         self.status     = "Actively seeking full-time roles | 8–12 LPA"
 
     def tech_stack(self):
@@ -31,6 +31,13 @@ class Divyanshi_Singh:
             "deployment"     : ["FastAPI", "Streamlit", "Gradio", "Flask", "Render"],
             "data"           : ["SQL", "MongoDB", "ChromaDB", "Pinecone", "Power BI"],
             "tools"          : ["MCP", "LangSmith", "Docker", "Git", "HuggingFace"]
+        }
+
+    def currently(self):
+        return {
+            "building"  : "Multi-agent research pipeline with LangGraph + RAG + web search",
+            "exploring" : "MCP server development for real-time LLM tool use",
+            "learning"  : "LLM fine-tuning with LoRA/QLoRA | LangSmith agent evaluation"
         }
 
     def stats(self):
@@ -54,62 +61,68 @@ me.connect()
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🧠 [Meta Ad Intelligence Engine](https://github.com/DIVYANSHI018572/Meta-Ad-Intelligence-Engine)
-Agentic AI system that analyzes Meta ad performance, extracts insights, and generates optimization recommendations using LLMs + LangGraph.
+---
 
-`LangGraph` `LangChain` `OpenAI` `FastAPI` `Python`
+### 🛣️ Automated Pavement Distress System
 
-</td>
-<td width="50%">
+<a href="https://huggingface.co/spaces/Divya499/APDS-Automated-Pavement-Distress-System"><img src="https://img.shields.io/badge/🤗%20Live%20Demo-HuggingFace-FFD21E?style=for-the-badge"/></a>&nbsp;<a href="https://github.com/DIVYANSHI018572/Automated-Pavement-Distress-System"><img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github"/></a>
 
-### 🔍 [GitPulse Intelligence](https://github.com/DIVYANSHI018572/Gitpulse-Intelligence)
-AI-powered GitHub repository analyzer that surfaces code quality insights, contributor patterns, and project health metrics.
+Real-time Computer Vision system that detects and classifies road surface defects with YOLOv8 — automating distress analysis across road images and video feeds.
 
-`LangChain` `GitHub API` `RAG` `Streamlit` `Python`
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
-### 🤖 [GitHub Intelligence MCP](https://github.com/DIVYANSHI018572/Github-Intelligence-Mcp)
-Model Context Protocol server enabling LLMs to interact with GitHub repositories as tools — search, analyze, and summarize in real time.
+### 🧠 Meta Ad Intelligence Engine
 
-`MCP` `LangChain` `Agentic AI` `Tool Use` `Python`
+<a href="https://meta-ad-intelligence-engine-noknavfbsz7x9bjo7eh3ey.streamlit.app"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>&nbsp;<a href="https://github.com/DIVYANSHI018572/Meta-Ad-Intelligence-Engine"><img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github"/></a>
 
-</td>
-<td width="50%">
+Agentic AI system that autonomously analyzes Meta ad campaign performance, extracts actionable insights, and generates optimization recommendations — powered by LangGraph multi-agent orchestration.
 
-### 🛣️ [Automated Pavement Distress System](https://github.com/DIVYANSHI018572/Automated-Pavement-Distress-System)
-Computer Vision system for automated detection and classification of road surface defects using deep learning and real-time image analysis.
+![LangGraph](https://img.shields.io/badge/LangGraph-6C63FF?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-`YOLOv8` `PyTorch` `OpenCV` `Streamlit` `Computer Vision`
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### 🔍 GitPulse Intelligence
 
-### 🎬 [Movie Match Maker](https://github.com/DIVYANSHI018572/Movie-Match-Maker)
-RAG-powered movie recommendation system using vector embeddings and semantic search over a large film knowledge base.
+<a href="https://huggingface.co/spaces/Divya499/Gitpulse-Intelligence"><img src="https://img.shields.io/badge/🤗%20Live%20Demo-HuggingFace-FFD21E?style=for-the-badge"/></a>&nbsp;<a href="https://github.com/DIVYANSHI018572/Gitpulse-Intelligence"><img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github"/></a>
 
-`RAG` `ChromaDB` `LangChain` `Streamlit` `Embeddings`
+AI-powered GitHub repository intelligence tool that surfaces code quality insights, contributor patterns, commit trends, and project health metrics — all from a single repo URL.
 
-</td>
-<td width="50%">
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat-square&logoColor=white)
+![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-### 📚 [OllamaRAG Nexus](https://github.com/DIVYANSHI018572/OllamaRAG-Nexus)
-Local RAG system using Ollama for fully offline document Q&A — zero API costs, full privacy, production-ready architecture.
+</div>
 
-`Ollama` `ChromaDB` `LangChain` `FastAPI` `Gradio`
+---
 
-</td>
-</tr>
-</table>
+## 📦 All Projects
+
+<div align="center">
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| 🧠 Meta Ad Intelligence Engine | Agentic AI for Meta ad performance analysis | LangGraph · OpenAI · FastAPI | [🚀 Demo](https://meta-ad-intelligence-engine-noknavfbsz7x9bjo7eh3ey.streamlit.app) · [💻 Code](https://github.com/DIVYANSHI018572/Meta-Ad-Intelligence-Engine) |
+| 🔍 GitPulse Intelligence | AI-powered GitHub repo analyzer | LangChain · RAG · GitHub API | [🤗 Demo](https://huggingface.co/spaces/Divya499/Gitpulse-Intelligence) · [💻 Code](https://github.com/DIVYANSHI018572/Gitpulse-Intelligence) |
+| 🤖 GitHub Intelligence MCP | MCP server for LLM × GitHub tool use | MCP · LangChain · Agentic AI | [💻 Code](https://github.com/DIVYANSHI018572/Github-Intelligence-Mcp) |
+| 🛣️ Automated Pavement Distress | CV system for road defect detection | YOLOv8 · PyTorch · OpenCV | [🤗 Demo](https://huggingface.co/spaces/Divya499/APDS-Automated-Pavement-Distress-System) · [💻 Code](https://github.com/DIVYANSHI018572/Automated-Pavement-Distress-System) |
+| 🎬 Movie Match Maker | RAG-powered semantic movie recommender | RAG · ChromaDB · LangChain | [🤗 Demo](https://huggingface.co/spaces/Divya499/Movie-Match-Maker) · [💻 Code](https://github.com/DIVYANSHI018572/Movie-Match-Maker) |
+| 📚 OllamaRAG Nexus | Fully offline local RAG document Q&A | Ollama · ChromaDB · FastAPI | [💻 Code](https://github.com/DIVYANSHI018572/OllamaRAG-Nexus) |
+
+</div>
 
 ---
 
@@ -177,7 +190,7 @@ Local RAG system using Ollama for fully offline document Q&A — zero API costs,
 
 I'm actively looking for full-time roles in GenAI, Agentic AI, Data Science, or Data Analytics.
 
-- 💼 Open to: Full-time | 6-15 lpa LPA | Bangalore / Hyderabad / Mumbai / Remote
+- 💼 Open to: Full-time | 8–12 LPA | Bangalore / Hyderabad / Mumbai / Remote
 - 📧 Email: divyanshis499@gmail.com
 - 🔗 LinkedIn: [divyanshi018572](https://linkedin.com/in/divyanshi018572)
 - 💬 Always happy to collaborate on AI projects or discuss opportunities!
