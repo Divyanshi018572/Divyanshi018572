@@ -34,13 +34,6 @@ class Divyanshi_Singh:
             "tools"          : ["MCP", "LangSmith", "Docker", "Git", "HuggingFace"]
         }
 
-    def currently(self):
-        return {
-            "building"  : "Multi-agent research pipeline with LangGraph + RAG + web search",
-            "exploring" : "MCP server development for real-time LLM tool use",
-            "learning"  : "LLM fine-tuning with LoRA/QLoRA | LangSmith agent evaluation"
-        }
-
     def stats(self):
         return {
             "projects_built" : "25+ end-to-end AI/ML projects",
@@ -105,23 +98,6 @@ AI-powered GitHub repository intelligence tool that surfaces code quality insigh
 ![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-
-</div>
-
----
-
-## 📦 All Projects
-
-<div align="center">
-
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| 🧠 Meta Ad Intelligence Engine | Agentic AI for Meta ad performance analysis | LangGraph · OpenAI · FastAPI | [🚀 Demo](https://meta-ad-intelligence-engine-noknavfbsz7x9bjo7eh3ey.streamlit.app) · [💻 Code](https://github.com/DIVYANSHI018572/Meta-Ad-Intelligence-Engine) |
-| 🔍 GitPulse Intelligence | AI-powered GitHub repo analyzer | LangChain · RAG · GitHub API | [🤗 Demo](https://huggingface.co/spaces/Divya499/Gitpulse-Intelligence) · [💻 Code](https://github.com/DIVYANSHI018572/Gitpulse-Intelligence) |
-| 🤖 GitHub Intelligence MCP | MCP server for LLM × GitHub tool use | MCP · LangChain · Agentic AI | [💻 Code](https://github.com/DIVYANSHI018572/Github-Intelligence-Mcp) |
-| 🛣️ Automated Pavement Distress | CV system for road defect detection | YOLOv8 · PyTorch · OpenCV | [🤗 Demo](https://huggingface.co/spaces/Divya499/APDS-Automated-Pavement-Distress-System) · [💻 Code](https://github.com/DIVYANSHI018572/Automated-Pavement-Distress-System) |
-| 🎬 Movie Match Maker | RAG-powered semantic movie recommender | RAG · ChromaDB · LangChain | [🤗 Demo](https://huggingface.co/spaces/Divya499/Movie-Match-Maker) · [💻 Code](https://github.com/DIVYANSHI018572/Movie-Match-Maker) |
-| 📚 OllamaRAG Nexus | Fully offline local RAG document Q&A | Ollama · ChromaDB · FastAPI | [💻 Code](https://github.com/DIVYANSHI018572/OllamaRAG-Nexus) |
 
 </div>
 
