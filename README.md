@@ -33,13 +33,6 @@ class Divyanshi_Singh:
             "tools"          : ["MCP", "LangSmith", "Docker", "Git", "HuggingFace"]
         }
 
-    def currently(self):
-        return {
-            "building"  : "Multi-agent research pipeline with LangGraph + RAG + web search",
-            "exploring" : "MCP server development for real-time LLM tool use",
-            "learning"  : "LLM fine-tuning with LoRA/QLoRA | LangSmith agent evaluation"
-        }
-
     def stats(self):
         return {
             "projects_built" : "25+ end-to-end AI/ML projects",
