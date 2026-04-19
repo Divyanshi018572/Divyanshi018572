@@ -38,7 +38,7 @@ class Divyanshi_Singh:
         return {
             "projects_built" : "25+ end-to-end AI/ML projects",
             "apps_deployed"  : "10+ live apps on Streamlit / HuggingFace / Render",
-            "github_repos"   : "27 public repositories"
+            "github_repos"   : "31 public repositories"
         }
 
     def connect(self):
