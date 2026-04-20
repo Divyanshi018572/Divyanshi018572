@@ -148,21 +148,6 @@ AI-powered GitHub repository intelligence tool that surfaces code quality insigh
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DIVYANSHI018572&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYANSHI018572&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DIVYANSHI018572&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## 📫 Let's Connect
 
 I'm actively looking for full-time roles in GenAI, Agentic AI, Data Science, or Data Analytics.
