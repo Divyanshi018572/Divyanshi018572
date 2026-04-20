@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4B4A9C&height=150&section=header&text=Divyanshi%20Singh&fontSize=42&fontColor=e8e6ff&animation=fadeIn&fontAlignY=42&desc=GenAI%20%7C%20Agentic%20AI%20%7C%20Data%20Scientist%20%7C%20MMMUT%2026&descAlignY=65&descColor=c4c0f0" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B8FFF&width=600&lines=GenAI+Engineer+%7C+Agentic+AI+Builder+%7C+ML+Engineer+%7C+Data+Scientist;25%2B+AI+Projects+%7C+10%2B+Deployed+Apps;LangChain+%7C+LangGraph+%7C+RAG+%7C+PyTorch;Open+to+Full-Time+Roles+%7C+6-15+LPA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B8FFF&width=600&lines=GenAI+Engineer+%7C+Agentic+AI+Builder+%7C+ML+Engineer+%7C+Data+Scientist;25%2B+AI+Projects+%7C+10%2B+Deployed+Apps;LangChain+%7C+LangGraph+%7C+RAG+%7C+PyTorch)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshi018572)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:divyanshis499@gmail.com)
