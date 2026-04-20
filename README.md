@@ -152,7 +152,7 @@ AI-powered GitHub repository intelligence tool that surfaces code quality insigh
 
 I'm actively looking for full-time roles in GenAI, Agentic AI, Data Science, or Data Analytics.
 
-- 💼 Open to: Full-time | 6–15 LPA | Bangalore / Hyderabad / Mumbai / Remote
+- 💼 Open to: Full-time | Bangalore / Hyderabad / Mumbai / Remote
 - 📧 Email: divyanshis499@gmail.com
 - 🔗 LinkedIn: [divyanshi018572](https://linkedin.com/in/divyanshi018572)
 - 💬 Always happy to collaborate on AI projects or discuss opportunities!
