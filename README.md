@@ -19,27 +19,9 @@
 class Divyanshi_Singh:
     def __init__(self):
         self.name       = "Divyanshi Singh"
-        self.roles      = ["GenAI Engineer", "Agentic AI Engineer", "Data Scientist", "Data Analyst"]
         self.university = "MMMUT, Gorakhpur — B.Tech '26 | Minor in Data Science"
         self.location   = "India 🇮🇳 | Open to Remote"
-        self.status     = "Actively seeking full-time roles | 8–12 LPA"
 
-    def tech_stack(self):
-        return {
-            "llm_frameworks" : ["LangChain", "LangGraph", "CrewAI", "LlamaIndex"],
-            "ai_skills"      : ["RAG", "Agentic AI", "Prompt Engineering", "Fine-tuning"],
-            "ml_dl"          : ["PyTorch", "TensorFlow", "Scikit-Learn", "OpenCV"],
-            "deployment"     : ["FastAPI", "Streamlit", "Gradio", "Flask", "Render"],
-            "data"           : ["SQL", "MongoDB", "ChromaDB", "Pinecone", "Power BI"],
-            "tools"          : ["MCP", "LangSmith", "Docker", "Git", "HuggingFace"]
-        }
-
-    def stats(self):
-        return {
-            "projects_built" : "25+ end-to-end AI/ML projects",
-            "apps_deployed"  : "10+ live apps on Streamlit / HuggingFace / Render",
-            "github_repos"   : "31 public repositories"
-        }
 
     def connect(self):
         print("📧 divyanshis499@gmail.com")
